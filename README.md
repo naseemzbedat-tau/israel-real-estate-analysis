@@ -62,5 +62,9 @@ python analysis.py
 ---
 
 ## 👤 About
+<<<<<<< HEAD
 Made by **Naseem Zbedat** — First-year Data Science student at Tel Aviv University.
+=======
+Made by **Naseem zbedat** — First-year Data Science student at Tel Aviv University.
+>>>>>>> 0e0b1a477eee35d972d502057d99c455e2fc2260
 
