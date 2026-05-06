@@ -62,5 +62,5 @@ python analysis.py
 ---
 
 ## 👤 About
-Made by **Nassim** — First-year Data Science student at Tel Aviv University.
+Made by **Naseem zbedat** — First-year Data Science student at Tel Aviv University.
 
